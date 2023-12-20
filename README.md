@@ -1,0 +1,2 @@
+# MSSQLExcelTableSchema
+C#應用程式,將MSSQL資料庫產生TableSchema的EXCEL
